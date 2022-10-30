@@ -1,9 +1,9 @@
 Assignments
 
 This contains three branches.
-week5: which is the main branch and contains the code for the tasks from both week4 and week5
-week4: this branch contains week4 code
-week3: this branch contains week3 code
+- week5: which is the main branch and contains the code for the tasks from both week3 and week4
+- week4: this branch contains week4 code
+- week3: this branch contains week3 code
 
 ## FAQ
 
